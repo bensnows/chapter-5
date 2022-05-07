@@ -33,5 +33,4 @@ volumes:
       - /tmp/video-streaming/npm-cache:/root/.npm:z
       - /src/video-streaming/src:/usr/src/app/src:z
       - /src/video-streaming/videos:/usr/src/app/videos:z
-
 ```
